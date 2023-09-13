@@ -2,7 +2,7 @@ name: Humanitec
 on:
     push:
         branches:
-            - master
+            - main
 
 jobs:
   humanitec:
